@@ -8,6 +8,6 @@ permalink: /sample/
 
 ## Title
 
-Body
+하냥이
 
 ![hanyang](/assets/images/hanyang2.png){: width="120" }
